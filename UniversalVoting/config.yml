@@ -1,0 +1,6 @@
+list:
+ - line 1
+ - line 2
+ - line 3
+ - &1line 4
+ - &1kline 5

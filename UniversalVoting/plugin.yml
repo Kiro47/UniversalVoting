@@ -1,0 +1,13 @@
+name: UniversalVoting
+version: 2.1
+main: com.kiro.universalvoting.UniversalVotingMain
+author: Kiro47
+description: Voting module that handles all servers.
+
+commands:
+  vote:
+    usage: /<command>
+    description:  Shows Voting Links
+  kdebug:
+    usage: /<command>
+    description:  Shows Voting Links
